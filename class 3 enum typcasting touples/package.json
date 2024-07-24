@@ -1,0 +1,20 @@
+{
+  "name": "class-3-enum-typcasting-touples",
+  "version": "1.0.0",
+
+  "scripts": {
+    "start": "npx tsc --watch",
+    "build": "npx tsc"
+  },
+  
+  "dependencies": {
+    "typescript": "^5.5.3"
+  }
+
+}
+
+
+
+
+
+

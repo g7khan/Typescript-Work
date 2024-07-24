@@ -1,0 +1,13 @@
+{
+  "name": "class-2-type-of-string",
+  "version": "1.0.0",
+  
+  "scripts": {
+    "start": "npx tsc --watch",
+    "build": "npx tsc"
+  },
+
+  "dependencies": {
+    "typescript": "^5.5.3"
+  }
+}
